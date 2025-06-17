@@ -4,7 +4,7 @@ This project builds a **Retrieval-Augmented Generation (RAG)** based chatbot usi
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ **Multi-document support**: Load and query multiple files simultaneously.
 - ✅ **RAG-powered responses**: Combine retrieval and generation for grounded answers.
@@ -14,7 +14,7 @@ This project builds a **Retrieval-Augmented Generation (RAG)** based chatbot usi
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **LLaMAIndex** (Document indexing and retrieval)
 - **LangChain** (Optional chain building)
