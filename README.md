@@ -6,11 +6,11 @@ This project builds a **Retrieval-Augmented Generation (RAG)** based chatbot usi
 
 ## Features
 
-- ✅ **Multi-document support**: Load and query multiple files simultaneously.
-- ✅ **RAG-powered responses**: Combine retrieval and generation for grounded answers.
-- ✅ **Interactive UI**: Streamlit interface for a clean and intuitive chat experience.
-- ✅ **Modular**: Easily switch LLMs or embedding backends (OpenAI, HuggingFace).
-- ✅ **PDF, TXT, and more**: Extendable to support various file formats.
+-  **Multi-document support**: Load and query multiple files simultaneously.
+-  **RAG-powered responses**: Combine retrieval and generation for grounded answers.
+-  **Interactive UI**: Streamlit interface for a clean and intuitive chat experience.
+-  **Modular**: Easily switch LLMs or embedding backends (OpenAI, HuggingFace).
+-  **PDF, TXT, and more**: Extendable to support various file formats.
 
 ---
 
